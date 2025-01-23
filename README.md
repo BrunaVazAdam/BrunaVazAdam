@@ -13,7 +13,7 @@
   <img align="center" alt="Bruna-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Bruna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Bruna-gif" src="blob:https://discord.com/f0329030-680f-42e3-9be3-e9346d2564f2">
+  <img align="right" alt="Bruna-gif" width="150" src="https://github.com/BrunaVazAdam/BrunaVazAdam/blob/main/bruna-gif.gif?raw=true">
 </div>
 
 ##
